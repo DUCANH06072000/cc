@@ -1,0 +1,15 @@
+E:\c#\tes\tes\bin\Debug\netcoreapp3.1\tes.exe
+E:\c#\tes\tes\bin\Debug\netcoreapp3.1\tes.deps.json
+E:\c#\tes\tes\bin\Debug\netcoreapp3.1\tes.runtimeconfig.json
+E:\c#\tes\tes\bin\Debug\netcoreapp3.1\tes.runtimeconfig.dev.json
+E:\c#\tes\tes\bin\Debug\netcoreapp3.1\tes.dll
+E:\c#\tes\tes\bin\Debug\netcoreapp3.1\tes.pdb
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.csprojAssemblyReference.cache
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.Form1.resources
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.csproj.GenerateResource.cache
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.AssemblyInfoInputs.cache
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.AssemblyInfo.cs
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.csproj.CoreCompileInputs.cache
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.dll
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.pdb
+E:\c#\tes\tes\obj\Debug\netcoreapp3.1\tes.genruntimeconfig.cache
