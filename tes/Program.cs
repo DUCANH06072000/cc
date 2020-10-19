@@ -19,5 +19,9 @@ namespace tes
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        void hienthi
+            (
+            hienthi();
+            )
     }
 }

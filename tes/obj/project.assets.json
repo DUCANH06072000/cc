@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c#\\tes\\tes\\tes.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\cc\\tes\\tes.csproj",
       "projectName": "tes",
-      "projectPath": "E:\\c#\\tes\\tes\\tes.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\cc\\tes\\tes.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "E:\\c#\\tes\\tes\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\cc\\tes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
